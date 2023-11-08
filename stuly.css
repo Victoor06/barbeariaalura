@@ -1,5 +1,5 @@
-<head>
-<meta charset=”UTF-8”>
-<title>Barbearia Alura</title>
-<link rel=”stylesheet” href=”style.css”>
-</head>
+p {
+    text-align: center;
+    }
+body{
+    background:#ff0000;
